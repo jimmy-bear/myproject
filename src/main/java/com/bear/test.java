@@ -5,5 +5,8 @@ public class test {
         System.out.println("Hollo");
         Person p=new Person();
         p.Hello();
+        int t=1;
+        char s='A';
+        float sd=3.5f;
     }
 }
